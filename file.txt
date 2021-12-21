@@ -1,1 +1,2 @@
 This is my first git program
+seconf line of code
